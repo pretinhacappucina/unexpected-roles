@@ -52,8 +52,7 @@ More features will be added as development continues.
 2. Download the latest version of **Unexpected Roles**.
 3. Extract the mod files into your Among Us installation directory.
 4. Start Among Us.
-5. Check the BepInEx console/log to verify that Unexpected Roles loaded
-   successfully.
+5. Check the BepInEx console/log to verify that Unexpected Roles loaded successfully.
 
 ---
 
@@ -87,22 +86,12 @@ development beyond the original project.
 
 ## Licensing
 
-The EHR-derived portions of Unexpected Roles are licensed under the
-**GNU General Public License v3.0**.
+Unexpected Roles is licensed under the **GNU General Public License v3.0**.
+
+The project is based on code from **Endless Host Roles (EHR)**, which is
+licensed under the GPL-3.0.
 
 See the [`LICENSE`](LICENSE) file for the applicable license terms.
-
-### Custom Team Assigner
-
-The `CTA/CustomTeamAssigner` component originates from the EHR project and
-is subject to its own separate license and copyright notice.
-
-Its original copyright and licensing terms are retained.
-
-**Copyright (c) 2025, Gurge44**
-
-The separate license applicable to the Custom Team Assigner must be respected
-when redistributing or modifying that component.
 
 ---
 
