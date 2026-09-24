@@ -1255,7 +1255,7 @@
   "DonatorTargetsPerMeeting": "Max Different People Helped Per Meeting",
   "DonationLimitPerGame": "Donation Limit Per Game",
   "Peacemaker": "Peacemaker",
-  "PeacemakerInfo":  "Peace players",
+  "PeacemakerInfo": "Peace players",
   "PeacemakerInfoLong": "(Crewmates):\nAs the Peacemaker, during meetings you can use the vote-area button (or the vanilla judging button) on a player instead of voting them out.\n\nIf the target is an Impostor or has any special role, they instantly become a plain Crewmate, losing their role and team.\n\nIf the target is already a plain Crewmate, nothing happens and your use isn't consumed.\n\nYou have a limited number of uses per meeting.",
   "PeacemakerShortDescription": "Turn a suspicious player into a plain Crewmate",
   "Peacemaker.UseLimitPerMeeting": "Use Limit Per Meeting",
