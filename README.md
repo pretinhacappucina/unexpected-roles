@@ -1,8 +1,8 @@
 <div align="center">
 
-# Endless Host Roles
+# Endless Host Roles PLUS
 
-### The largest Among Us mod
+### Endless Host Roles, expanded with 12 additional and modified roles
 **Completely free • Host-Only • Fully customizable • 100% transparency • No accounts or logins required**
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5662f6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m3ayxfumC8)
@@ -35,6 +35,37 @@
 > If you have questions, ask in our Discord server.
 
 </div>
+
+## Endless Host Roles PLUS
+
+**Endless Host Roles PLUS** is a modified version of **Endless Host Roles (EHR)** by **Gurge44**.
+
+This project keeps the EHR host-only foundation and adds or modifies **12 roles**. These are the PLUS-specific changes:
+
+### PLUS Roles
+
+| Role | Change |
+|------|--------|
+| **BomberMan** | Role Modified |
+| **Recruiter** | Role Modified |
+| **Teleporter** | Role Modified |
+| **Trex** | Role Added |
+| **Speedster** | Role Added |
+| **Sleeper** | Role Added |
+| **Donator** | Role Added |
+| **Crewshifter** | Role Added |
+| **Peacemaker** | Role Added |
+| **Worker** | Role Added |
+| **Whistleblower** | Role Added |
+| **Noisebodie** | Role Modified |
+
+The PLUS roles are marked in the source enum with `Role Modificada!` / `Role adicionada!` comments.
+
+> **Original project:** [Endless Host Roles (EHR)](https://github.com/Gurge44/EndlessHostRoles) by **Gurge44**.
+>
+> **Modification notice:** This is a modified version of EHR. The PLUS-specific changes are maintained separately from the original EHR project.
+
+---
 
 # Installation
 
@@ -69,7 +100,7 @@ You can also report bugs and suggest features in the #bug-reports and #suggestio
 
 ### You can make yourself a global EHR tag and see active EHR lobbies here: [Active EHR Lobbies](https://app.gurge44.eu/lobbies)
 
-#### Over 450+ roles and add-ons, 16 custom game modes, and a Custom Team Assigner application, making EHR the most extensive mod for Among Us. And it's all free, and only the host needs to have the mod installed for the entire lobby to play!
+#### Based on Endless Host Roles (EHR), with 12 additional and modified roles. The PLUS version remains host-only: only the host needs the mod installed for the entire lobby to play.
 
 ## List of Roles <span style="font-size: 12px;">(excluding (Custom) Hide And Seek roles and Vanilla roles)</span>
 
@@ -283,7 +314,6 @@ Click this badge to view our translation project:
 - /up was reworked to /setrole, allowing you to set anyone's role for the next game, not only yours.
 - You can fully gain access to /setrole by just hosting EHR lobbies weekly or uploading EHR content to YouTube, but
   everyone can use /setrole to set their own role without any requirements (essentially /up).
-- EHR has a Custom Team Assigner application, which is a unique feature that no other mod has.
 - You can force or ban certain role/add-on combinations directly in the game using /combo.
 - Not sure how to use commands? Use /help to see a list of all available commands.
 - EHR helps the host use commands by directly displaying their short descriptions, arguments, descriptions for all
@@ -612,39 +642,98 @@ Click this badge to view our translation project:
 | <img src="https://cdn.brandfetch.io/idXCVMKbd8/w/180/h/180/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1777121415987" alt="SignPath Logo" width="44"/> | Free code signing on Windows provided by [SignPath.io](https://signpath.io), certificate by [SignPath Foundation](https://signpath.org) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-# License for the Custom Team Assigner application (everything inside the `CTA` folder)
+## AI Assistance & Disclosure
 
-```
-Copyright (c) 2025, Gurge44
+This project was developed with assistance from AI coding tools.
 
-All rights reserved.
+**AI models used:**
+- **GPT-5.6 Luna** — used for coding assistance, code analysis, debugging, explanations, and development support.
+- **Claude Sonnet 5** — used for coding assistance, code analysis, debugging, explanations, and development support.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+The project author remains responsible for reviewing, understanding, testing, and maintaining the code included in this repository. AI-generated or AI-assisted code is not presented as solely human-written.
 
-1. Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
-3. All advertising materials mentioning features or use of this software
-   must display the following acknowledgement:
-   This product includes software developed by Gurge44.
-4. Neither the name of the Endless Network nor the
-   names of its contributors may be used to endorse or promote products
-   derived from this software without specific prior written permission.
+AI was used as a development tool, not as an autonomous contributor. The human author remains in the loop and is responsible for the final implementation and published changes.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER ''AS IS'' AND ANY
-EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
-USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-```
+If you contribute to this project using AI, you must disclose the AI model(s) and version(s) used, and you remain responsible for understanding and reviewing the code you submit.
+
+> **Transparency notice:** This repository explicitly discloses the use of **GPT-5.6 Luna** and **Claude Sonnet 5** in the development of Endless Host Roles PLUS.
+
+---
+
+# License
+
+Endless Host Roles PLUS is based on **Endless Host Roles (EHR)**, which is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+Because this project is a modified version of EHR, the PLUS project is distributed under the GPL-3.0 as required by the upstream license for modified versions.
+
+- **Original project:** [Gurge44/EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles)
+- **License:** [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+- **License file:** [`LICENSE`](LICENSE)
+
+This repository has been modified from the original EHR source. The PLUS-specific changes should be clearly identified as modifications to the original project.
+
+> This project is not affiliated with, endorsed by, or sponsored by Innersloth LLC. Portions of the game-related materials remain the property of Innersloth LLC.
+
+---
+
+# Code of Conduct
+
+This Code of Conduct applies to all interactions involving the **Endless Host Roles PLUS** community, including contributions to the repository, participation in community spaces, and games using the mod.
+
+Our goal is to maintain a safe, fun, fair, and welcoming environment.
+
+## 1. Expected Behavior
+
+We encourage everyone to:
+
+- **Play fairly** and follow the rules established by hosts.
+- **Have fun** while making sure other players can enjoy the experience too.
+- **Pay attention** to instructions and read relevant documentation before acting.
+- **Respect known bugs** and avoid abusing them to gain an unfair advantage.
+- **Be considerate** toward new players and other community members.
+- **Communicate respectfully** when discussing bugs, features, contributions, or disagreements.
+
+## 2. Unacceptable Behavior
+
+The following behaviors are prohibited:
+
+- Harassment, discrimination, or harmful speech or actions toward other community members.
+- Abusing hosts or intentionally sabotaging the experience for others.
+- Cheating or intentionally exploiting the mod in ways that ruin fairness or fun.
+- Intentionally disrupting community spaces or contributions.
+
+**Note:** Light trolling is acceptable when everyone involved is comfortable with it and it does not negatively affect others.
+
+## 3. Reporting Violations
+
+If you encounter a violation, report it through the project's official community/support channel.
+
+When making a report, provide enough information for the maintainers or moderators to understand and investigate the situation. Do not publicly expose private information about other users.
+
+Reports should be made in good faith and should contain accurate information whenever possible.
+
+## 4. Enforcement
+
+Violations may be handled by the **project maintainer and authorized community moderators**.
+
+Possible consequences include:
+
+- Warnings
+- Temporary or permanent restrictions from project-hosted game lobbies or community spaces
+- Removal of access to project community spaces
+- Other appropriate moderation actions depending on the severity and circumstances
+
+Enforcement may take into account the context, severity, repetition, and impact of the behavior.
+
+## 5. Additional Notes
+
+- **Jokes and playful behavior** are welcome when everyone involved understands and enjoys them.
+- The priority is to keep the community **fun, fair, and welcoming**.
+- This Code of Conduct applies to the PLUS community while recognizing that Endless Host Roles PLUS is a modified project based on **Endless Host Roles (EHR)**.
+
+By participating in the Endless Host Roles PLUS community, you agree to follow this Code of Conduct.
+
+---
 
 # Privacy Policy
 

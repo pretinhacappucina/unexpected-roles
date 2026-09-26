@@ -168,7 +168,6 @@ public enum CustomRoles
     Donator, // Role adicionada!
     Crewshifter, // Role adicionada!
     Peacemaker, // Role adionada!
-
     Adrenaline,
     Adventurer,
     Aid,
@@ -393,7 +392,7 @@ public enum CustomRoles
     Pulse,
     Pursuer,
     Pyromaniac,
-    Noisebodie,
+    Noisebodie, // Role Modificada!
     Quarry,
     QuizMaster,
     Reckless,
